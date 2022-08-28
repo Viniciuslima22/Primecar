@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Primecar/static/css/main.695da999.css",
-    "main.js": "/Primecar/static/js/main.a386e15e.js",
+    "main.js": "/Primecar/static/js/main.dd240544.js",
     "static/media/remixicon.svg?t=1590207869815": "/Primecar/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/Primecar/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Primecar/static/media/remixicon.f2616f597cf98f38d234.ttf",
@@ -29,10 +29,10 @@
     "static/media/slick.woff": "/Primecar/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Primecar/index.html",
     "main.695da999.css.map": "/Primecar/static/css/main.695da999.css.map",
-    "main.a386e15e.js.map": "/Primecar/static/js/main.a386e15e.js.map"
+    "main.dd240544.js.map": "/Primecar/static/js/main.dd240544.js.map"
   },
   "entrypoints": [
     "static/css/main.695da999.css",
-    "static/js/main.a386e15e.js"
+    "static/js/main.dd240544.js"
   ]
 }
