@@ -1,0 +1,13 @@
+.service__item span i{
+    font-size: 2.5rem;
+    color:  #D2DC00;
+
+}
+.service__item h6{
+    font-style: 1.2rem ;
+    font-weight: 600;
+    transition: .3s;
+}
+.service__item h6:hover{
+    color:  #D2DC00;;
+}

@@ -1,0 +1,34 @@
+.footer{
+    background:#00984A;
+    padding-top: 50px;
+    padding-bottom: 15px; 
+}
+.footer__logo i {
+    color:rgba(255, 255, 255, 0.715) !important;
+    font-weight: 500 ;
+}
+.footer__logo span{
+    color: rgba(255, 255, 255, 0.715);
+    font-weight: 500;
+}
+.footer__logo-content{
+ color:rgba(255, 255, 255, 0.715);
+ margin-top: 15px;
+ line-height: 30px;
+}
+.quick__link{
+    border: none !important;; 
+    background: transparent !important;;
+}
+.quick__link a{
+    color: rgba(255, 255, 255, 0.715);
+    text-decoration: none;
+}
+.footer__link-title{
+    color:rgba(255, 255, 255, 0.715);
+}
+.office__info {
+    color: rgba(255, 255, 255, 0.715);
+    font-weight: 300;
+  }
+  
