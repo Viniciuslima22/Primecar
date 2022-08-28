@@ -34,7 +34,7 @@ const About = () => {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet cumque in 
                   laboriosam voluptates culpa doloribus, 
                   odit perferendis consectetur rerum deserunt odio 
-                  tenetur dolores consequatur eligendi aut illum alias nam officiis.
+                  tenetur dolores consequatur eligendi aut illum alias  officiis.
                 </p>
 
                 <p className="section__description">
