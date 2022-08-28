@@ -27,11 +27,11 @@ const About = () => {
             <Col lg="6" md="6" sm="12">
               <div className="about__page-content">
                 <h2 className="section__title">
-                Estamos comprometidos em fornecer soluções de passeio seguro 
+                Estamos comprometidos em fornecer soluções de passeio seguro  
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet cumque in 
+                  Lorem ipsum dolor amet consectetur adipisicing elit. Amet cumque in 
                   laboriosam voluptates culpa doloribus, 
                   odit perferendis consectetur rerum deserunt odio 
                   tenetur dolores consequatur eligendi aut illum alias  officiis.
